@@ -1,6 +1,6 @@
 # bankist-demo
+![Bankist-flowchart](https://github.com/user-attachments/assets/6249d96c-048e-4eaa-82ca-17d3adab7d99)
 Collecting workspace information# Bankist App
-
 Bankist is a simple banking web application that allows users to log in, view their account balance, review transaction history, transfer money, request loans, and close their accounts. The project demonstrates modern JavaScript array methods, DOM manipulation, and basic UI/UX design.
 
 ## Features
